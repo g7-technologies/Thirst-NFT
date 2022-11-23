@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0xC2d65DC0701c2adC812616F8076c2006187BFBd3",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xC2d65DC0701c2adC812616F8076c2006187BFBd3",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 4
+  },
+  "NFT_NAME": "Thirsty Drinks NFTs Silver",
+  "SYMBOL": "TDNFTSS",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 205000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": false,
+  "DEEPLINK": "https://metamask.app.link/dapp/thirstnfts.com/MblSilverMint"
+}

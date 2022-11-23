@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0xCbe9D0e7d9f702Eee9Fef77f885CBc8FB0617B33",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xCbe9D0e7d9f702Eee9Fef77f885CBc8FB0617B33",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 4
+  },
+  "NFT_NAME": "Thirsty Drinks NFTs Bronze",
+  "SYMBOL": "TDNFTSB",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 205000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": false,
+  "DEEPLINK": "https://metamask.app.link/dapp/thirstnfts.com/MblBronzeMint"
+}
